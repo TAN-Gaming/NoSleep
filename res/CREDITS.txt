@@ -1,0 +1,11 @@
+NoSleep.ico
+By: Oxygen Team <https://github.com/KDE/oxygen-icons>
+License: LGPLv3 <https://www.gnu.org/licenses/lgpl-3.0.html>
+URL: https://www.iconarchive.com/show/oxygen-icons-by-oxygen-icons.org/Emblems-emblem-unmounted-icon.html
+Date: 27-Nov-2024
+
+Button_Click.wav
+By: JaZzy JunGgle <https://jazzy.junggle.net/>
+License: CC-BY-4.0 <https://creativecommons.org/licenses/by/4.0/>
+URL: https://freesound.org/people/junggle/sounds/29301/
+Date: 27-Nov-2024
